@@ -30,4 +30,4 @@ Additionally, after having gathered the necessary and sufficient amount of fruit
 PS and DORPO are concepts designed to empower users, often regardless of their background or expertise, to train and run effective and efficient bespoke models for specific use cases. By adopting PS and DORPO and utilizing them to build SmaLLMs, we can take a step closer toward building a more inclusive AI landscape that can benefit many people.
 
 
-> **_More info_**: For more technical details on the workings of PS and DORPO, please refer to the [Precision Shaking and DORPO: Conceptual Foundations of LLM Knowledge Distillation Methods white paper](https://github.com/OpZest/internal/blob/main/White_papers/Precision_Shaking_and_DORPO.md).
+> **_More info_**: For more technical details on the workings of PS and DORPO, please refer to the [Precision Shaking and DORPO: Conceptual Foundations of LLM Knowledge Distillation Methods white paper](https://github.com/OpZest/Papers/blob/main/White_papers/Precision_Shaking_and_DORPO.md).
