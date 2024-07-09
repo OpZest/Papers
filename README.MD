@@ -31,6 +31,7 @@ Many papers listed below were provided to Operation Zest by our team members/con
 ### 🕊️ Lite Papers
 Lite papers are simplified versions of white papers designed to be accessible and engaging for a broader audience, regardless of technical background.
 
+- [OpZest Ecosystem - Lite paper](https://github.com/OpZest/Papers/blob/main/Lite_papers/OpZest_Ecosystem_Lite_paper.md)
 - [Precision Shaking and DORPO - Lite paper](https://github.com/OpZest/Papers/blob/main/Lite_papers/PS_and_DORPO_Lite_paper.md)
 
 ## 🌳 Open Projects
@@ -40,6 +41,8 @@ Lite papers are simplified versions of white papers designed to be accessible an
 - Steamline:
   - Implementation of the SAPE concept. We are seeking software engineers to collaborate on further developing the MVP to fully realize its intended functions outlined in the white papers.
 
+## 🧑‍🌾 Friends of the Ecosystem
+- [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 
 ---
 
