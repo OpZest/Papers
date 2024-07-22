@@ -11,7 +11,7 @@ The concepts of Precision Shaking (PS) and Distillation-Oriented Odds Ratio Pref
 
 ## Introduction
 
-Artificial Intelligence (AI) technologies have significant impacts on our world, posing both opportunities and challenges for various industries and daily life. While these technologies offer potential benefits, they also raise concerns about economic disparities and concentration of power among select entities.
+Artificial Intelligence (AI) technologies have significant impact on our world, posing both opportunities and challenges for various industries and daily life. While these technologies offer potential benefits, they also raise concerns about economic disparities and concentration of power among select entities.
 
 Firstly, there is a risk that many individuals and organizations may be left behind because they do not have the resources, knowledge, or established positions needed to compete. Some fear losing their jobs or business, further limiting their ability to participate in the technological revolution. This could lead to feelings of disempowerment, anxiety, and instability. Additionally, the growing dominance of a few powerful AI companies could lead to monopolistic situations where they control the means of production and innovation, potentially hindering growth for smaller organizations.
 
