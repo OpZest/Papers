@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Artificial Intelligence (AI) technologies have the potential to revolutionize industries and transform our daily lives in ways yet to be determined. This transformation raises concerns about the potential for some individuals and organizations to “be left behind due to a lack of resources, knowledge, or established positions needed to compete. This could lead to feelings of disempowerment, anxiety, and instability” [[OpZest Ecosystem - Blueprint](https://github.com/OpZest/Papers/blob/main/White_papers/OpZest_Ecosystem.md)].
+Artificial Intelligence (AI) technologies have the potential to revolutionize industries and transform our daily lives in ways yet to be determined. This transformation could raise concerns that "many individuals and organizations may struggle to keep up or adapt because they do not have the resources, knowledge, or established positions needed to compete" [[OpZest Ecosystem - Blueprint](https://github.com/OpZest/Papers/blob/main/White_papers/OpZest_Ecosystem.md)].
 
 To tackle these issues, a shift toward a more inclusive AI landscape where smaller companies, individuals, and diverse organizations are able to cooperate and create a more level playing field to contribute and effect change would be a way to empower the everyman. 
 
