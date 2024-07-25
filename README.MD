@@ -41,6 +41,19 @@ Lite papers are simplified versions of white papers designed to be accessible an
 - Steamline:
   - Implementation of the SAPE concept. We are seeking software engineers to collaborate on further developing the MVP to fully realize its intended functions outlined in the white papers.
 
+## 🌱 First Fruit Badge
+
+- **What is a First Fruit Badge**: Exclusive token of appreciation for our earliest supporters who contribute to our project's success.
+- **Blockchain Timestamp**: Each badge is timestamped on the Bitcoin blockchain using OpenTimestamps (OTS), ensuring its authenticity.
+- **Verification**: You can verify the authenticity of your badge at any time by using the OTS file associated with it.
+
+**Claim Your Badge:**
+1. Go to [this link](https://opzest.com/#ffb).
+2. Click the "Get my badge now" button.
+3. Your badge will be timestamped, and a zip file containing the badge image (badge.png) and a stamp file (badge.png.ots) will be downloaded.
+4. Make sure to store the downloaded zip file in a safe place, as this is the only copy you will have.
+5. After a few hours, when the timestamp is confirmed by the Bitcoin blockchain, you can verify your badge by uploading both files from the zip [here](https://opzest.com/verify-badge).
+
 ## 🧑‍🌾 Friends of the Ecosystem
 - [Awesome Knowledge Distillation](https://github.com/dkozlov/awesome-knowledge-distillation)
 
